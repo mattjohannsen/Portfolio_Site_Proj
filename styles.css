@@ -153,6 +153,6 @@
     height: auto;
   }
 
-  img:hover {
+  .img:hover {
     transform: scaleX(-1);
   }
