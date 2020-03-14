@@ -153,6 +153,7 @@
     height: auto;
   }
 
-  .img:hover {
+  .imgreverse:hover {
+    transform: scaleX(-1);
     transform: scaleX(-1);
   }
